@@ -1,0 +1,12 @@
+{
+  "name": "jobportal-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "JobPortal Full-Stack Application with Live Adzuna API Aggregator and Naukri Link-out",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "node backend/server.js",
+    "dev": "node backend/server.js"
+  }
+}
+
